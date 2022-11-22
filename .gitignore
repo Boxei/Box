@@ -1,3 +1,6 @@
 # Disturbution files
 /dist
 /src/BoxFramework.egg-info
+.vscode
+venv
+out.log
