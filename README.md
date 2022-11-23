@@ -1,4 +1,4 @@
 # Box
-A python framework desgined to provide useful functions to a developers experience.
+![Framework](img/fm.png)
 
-![Framework](img/fm)
+A python framework desgined to provide useful functions to a developers experience.
