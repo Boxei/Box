@@ -1,0 +1,10 @@
+site_name: Box
+site_url: https://example.com/
+nav:
+    - Box:
+              - Home: index.md
+              - Getting Started: gettingstarted.md
+    - About:
+          - License: license.md
+theme: readthedocs
+
